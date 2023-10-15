@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a Full-stack web developer<br>I'm studying at City College of New York<br>I like Java and Python
+I'm a Full-stack web developer<br>I'm studying at City College of New York<br>
 
 
 # 💻 Tech Stack:
